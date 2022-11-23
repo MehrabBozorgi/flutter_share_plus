@@ -31,7 +31,7 @@ class FirstScreen extends StatelessWidget {
           child: const Text('Share link'),
           onPressed: (){
 
-            Share.share('www.mehrabbozorgi.ir',
+            Share.share('www.youtube.com/@Programming_Show',
             subject: 'Check out the website'
             );
 
